@@ -11,15 +11,7 @@
     </ol>
 </section>
 
-<section>
-    <h2>Serveur Discord</h2>
-    <p>📫 Comment me joindre</p>
-    <a href="https://discord.gg/EF6SMMUkJD">https://discord.gg/EF6SMMUkJD</a>
-</section>
-
-<br><br>
-
-
+# Serveur Discord
 ```python
 https://discord.gg/EF6SMMUkJD
 ```

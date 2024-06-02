@@ -1,13 +1,32 @@
-- 👋 Salut, je suis @sdevfr
-- 📫 Comment me joindre https://discord.gg/EF6SMMUkJD
-<!---
-sdevfr/sdevfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>👋 Salut, je suis @sdevfr</h1>
+<section>
+<p>languages </p>
+<ol>
+    <li>
+        <p>html</p>
+    </li>
+    <li>
+        <p>css</p>
+    </li>
+</ol>
+</section>
+<section>
+<h2>serveur discord</h2>
 
-**NOTE**: *Les languages situés ci-dessous ne reflèttent pas mon niveau, le graphique est la à titre informatif il vous permet de savoir quels sont les languages que j'utilise le plus dans mes répos.*
+📫 Comment me joindre
+</section>
+
+      https://discord.gg/EF6SMMUkJD
+<br>
+<br>
 
 <br>
-<a href="https://github.com/sdevfr/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdevfr&theme=jolly&layout=compact" style="background-color: blue; border-radius: 10px; padding: 10px;">
-</a>
+<div align="center">
+    <h2 align="center">🔴 Statistiques</h2>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=sdevfr&show_icons=true&bg_color=00000000&locale=fr">
+    </div>
+    <div>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=sdevfr&theme=tokyonight_duo&hide_border=true&mode=weekly&locale=fr">
+    </div>
+</div>

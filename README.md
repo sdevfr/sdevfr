@@ -1,6 +1,7 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/1127205174620983438)](https://discord.com/users/1127205174620983438)
 <h1>👋 Salut, je suis @sdevfr</h1>
 <section>
-<p>languages </p>
+   
 <ol>
     <li>
         <p>html</p>

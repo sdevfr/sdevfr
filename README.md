@@ -53,8 +53,8 @@ Je travaille avec une équipe de développeurs passionnés :
 
 | Collaborateur | Rôle | Spécialité |
 |---------------|------|------------|
-| [@wiltark](https://github.com/wiltark) | Co-créateur VekoJS | Architecture & Performance |
-| [@zet-pyr](https://github.com/zet-pyr) | Core Developer | UI/UX & Optimisation |
+| [@wiltark](https://github.com/wiltark) | créateur VekoJS | Architecture & Performance |
+| [@zet-pyr](https://github.com/zet-pyr) | créateur | UI/UX |
 
 ---
 
@@ -79,7 +79,7 @@ Je travaille avec une équipe de développeurs passionnés :
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### 🌟 VekoJS - Mon Framework
-<img src="https://cdn.discordapp.com/attachments/1377745429957181653/1378066112180129822/T6XPy9t.png?ex=683b3f94&is=6839ee14&hm=9e83ffd81b249e44403f094a8a3b4817b91174d9f97cfb839ec003c946b6036d&8" alt="VekoJS Framework" width="400"/>
+<img src="https://media.discordapp.net/attachments/1377745429957181653/1378066112180129822/T6XPy9t.png?ex=6841d714&is=68408594&hm=b98c2dc0e3cd43686d1110ee93baf381bf703f58504e9a2418a8bc241e9a6313&=&format=webp&quality=lossless&width=1232&height=272" alt="VekoJS Framework" width="400"/>
 
 *Le futur du développement web commence ici*
 

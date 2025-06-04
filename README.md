@@ -1,8 +1,6 @@
 # 🌟 Salut, je suis @sdevfr
 ### 💡 Développeur Full-Stack & Créateur d'expériences web innovantes
 
-
-
 ---
 
 ## 🚀 Mes Projets Phares
@@ -44,6 +42,11 @@ const backend = {
   architecture: ['REST API', 'GraphQL', 'Microservices']
 }
 ```
+
+---
+
+## 👥 Team Dev
+[![alfycore](https://img.shields.io/badge/alfycore-Team%20Dev-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfycore)
 
 ---
 

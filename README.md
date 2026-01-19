@@ -5,15 +5,7 @@
 
 ## 🚀 Mes Projets Phares
 
-### 🔥 [VekoJS](https://vekojs.dev/) - Framework Web Révolutionnaire
-*Un framework JavaScript moderne qui repense la création d'applications web*
-
-- ⚡ **Ultra-performant** : Optimisé pour la vitesse et l'efficacité
-- 🎨 **Interface intuitive** : Syntaxe claire et accessible
-- 🛠️ **Modulaire** : Architecture flexible et extensible
-- 📱 **Responsive** : Applications adaptatives par défaut
-
-### 🏢 [HostPrivé](https://web.hostprive.fr/) - Solutions d'Hébergement Premium
+### 🏢 [Hostyria](https://web.hostprive.fr/) - Solutions d'Hébergement Premium
 *Infrastructure cloud sécurisée pour tous vos projets*
 
 - 🔒 **Sécurité maximale** : Protection avancée des données
@@ -28,7 +20,7 @@
 ### Frontend
 ```javascript
 const frontend = {
-  frameworks: ['VekoJS', 'React', 'Next.js'],
+  frameworks: [ 'React', 'Next.js'],
   styling: ['CSS3', 'Tailwind', 'SCSS'],
   tools: ['Webpack', 'Vite', 'Electron']
 }
@@ -42,22 +34,6 @@ const backend = {
   architecture: ['REST API', 'GraphQL', 'Microservices']
 }
 ```
-
----
-
-## 👥 Team Dev
-[![alfycore](https://img.shields.io/badge/alfycore-Team%20Dev-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfycore)
-
----
-
-## 🤝 Dream Team & Collaborations
-
-Je travaille avec une équipe de développeurs passionnés :
-
-| Collaborateur | Rôle | Spécialité |
-|---------------|------|------------|
-| [@wiltark](https://github.com/wiltark) | créateur VekoJS | Architecture & Performance |
-| [@zet-pyr](https://github.com/zet-pyr) | créateur | UI/UX |
 
 ---
 
@@ -81,11 +57,6 @@ Je travaille avec une équipe de développeurs passionnés :
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-### 🌟 VekoJS - Mon Framework
-<img src="https://media.discordapp.net/attachments/1377745429957181653/1378066112180129822/T6XPy9t.png?ex=6841d714&is=68408594&hm=b98c2dc0e3cd43686d1110ee93baf381bf703f58504e9a2418a8bc241e9a6313&=&format=webp&quality=lossless&width=1232&height=272" alt="VekoJS Framework" width="400"/>
-
-*Le futur du développement web commence ici*
-
 </div>
 
 ---
@@ -98,8 +69,7 @@ Je travaille avec une équipe de développeurs passionnés :
 <img src="https://github-readme-stats.vercel.app/api?username=sdevfr&show_icons=true&theme=tokyonight&locale=fr&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Statistiques GitHub" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sdevfr&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&locale=fr" alt="Streak GitHub" width="49%" />
 
-### 🏆 Projet Vedette
-[![VekoJS Repository](https://github-readme-stats.vercel.app/api/pin/?username=wiltark&repo=veko.js&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://vekojs.dev/)
+
 
 ### 📝 Langages les Plus Utilisés
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdevfr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="60%" />
@@ -125,8 +95,6 @@ Je travaille avec une équipe de développeurs passionnés :
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdevfr)
-[![VekoJS](https://img.shields.io/badge/VekoJS-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)](https://vekojs.dev/)
-[![HostPrivé](https://img.shields.io/badge/HostPrivé-4CAF50?style=for-the-badge&logo=cloud&logoColor=white)](https://web.hostprive.fr/)
 
 ---
 
